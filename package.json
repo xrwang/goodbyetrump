@@ -1,0 +1,22 @@
+{
+  "name": "goodbyetrump",
+  "version": "1.0.0",
+  "description": "bai bai trump",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xrwang/goodbyetrump.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xrwang/goodbyetrump/issues"
+  },
+  "homepage": "https://github.com/xrwang/goodbyetrump#readme",
+  "dependencies": {
+    "phantomjs-prebuilt": "^2.1.13"
+  }
+}
